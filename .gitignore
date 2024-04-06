@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Builds/Windows/Kratz/Content/Paks/global.ucas
+Builds/Windows/Kratz/Content/Paks/global.utoc
+Builds/Windows/Kratz/Content/Paks/Kratz-Windows.pak
+Builds/Windows/Kratz/Content/Paks/Kratz-Windows.ucas
+Builds/Windows/Kratz/Content/Paks/Kratz-Windows.utoc
+Builds/Windows/Manifest_NonUFSFiles_Win64.txt
+Builds/Windows/Manifest_UFSFiles_Win64.txt
