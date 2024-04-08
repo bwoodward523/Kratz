@@ -1,0 +1,16 @@
+Kratz/Binaries/Win64/D3D12/D3D12Core.dll	2023-11-22T19:41:41.901Z
+Kratz/Binaries/Win64/Kratz-Win64-Shipping.exe	2024-04-08T01:17:02.203Z
+Kratz/Binaries/Win64/OpenImageDenoise.dll	2023-11-22T19:54:33.237Z
+Kratz/Binaries/Win64/tbb.dll	2023-11-22T19:41:27.198Z
+Kratz/Binaries/Win64/tbb12.dll	2023-11-22T19:54:30.975Z
+Kratz/Binaries/Win64/tbbmalloc.dll	2023-11-22T19:41:27.207Z
+Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2023-11-22T19:45:01.723Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2023-11-22T19:40:21.568Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2023-11-22T19:41:30.076Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2023-11-22T19:41:30.113Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2023-11-22T19:41:30.392Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2023-11-22T19:41:41.869Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2023-11-22T19:41:41.870Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2023-11-22T19:41:45.295Z
+Engine/Content/Slate/Cursor/invisible.cur	2023-11-22T19:43:28.760Z
+Kratz.exe	2024-04-08T01:19:11.010Z
